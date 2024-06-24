@@ -3,7 +3,7 @@
 **Objective:**
 The primary objective of this project is to analyze the coffee sales data to identify key trends, patterns, and insights that can help improve business performance, optimize inventory management, and enhance marketing strategies.
 
-**Steps Involved: **
+**Steps Involved:**
 1. Data Collection: Maven Analytics
 2. Data Cleaning and Feature Engineering:
   2.1 Data Cleaning: Addressed missing values, standardized formats, and removed inconsistencies.

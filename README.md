@@ -10,7 +10,7 @@ The primary objective of this project is to analyze the coffee sales data to ide
   2.2 Feature Engineering: Extracted features such as Hour of the Day, Day of the Week, Month, Size, Average Order Value, and Total Revenue to enhance the analysis.
 3. Exploratory Data Analysis
 
-Major Insights of Exploratory Data Analysis:
+**Major Insights of EDA:**
 
 1. Overall Performance:
    - Total Orders: 149,116

@@ -1,4 +1,4 @@
-# Coffee_Shop_Sales
+# Coffee_Sales_Analysis
 
 **Objective:**
 The primary objective of this project is to analyze the coffee sales data to identify key trends, patterns, and insights that can help improve business performance, optimize inventory management, and enhance marketing strategies.
